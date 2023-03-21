@@ -1,0 +1,6 @@
+colorama
+urllib3
+requests
+pystyle
+aiohttp
+asyncio
